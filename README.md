@@ -10,3 +10,5 @@
 
 [![Minsung_git_status](https://github-readme-stats.vercel.app/api?username=jiokim-7&show_icons=true&theme=radical)
 )](https://github.com/jiokim-7)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkrite)](https://solved.ac/jkrite/)
