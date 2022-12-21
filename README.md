@@ -18,6 +18,9 @@
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 
+### Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=flat-square&logo=velog&link=https://velog.io/@now20412041)](https://velog.io/@now20412041)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:now20412041@gmail.com)](mailto:now20412041@gmail.com)
 
 [![Minsung_git_status](https://github-readme-stats.vercel.app/api?username=jiokim-7&show_icons=true&theme=radical)
 )](https://github.com/jiokim-7)
