@@ -8,3 +8,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white)
 
+[![Minsung_git_status](https://github-readme-stats.vercel.app/api?username=jiokim-7)](https://github.com/jiokim-7)
